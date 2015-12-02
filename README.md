@@ -13,7 +13,6 @@
  3) Layout.xml
      <code>
       <com.google.android.gms.ads.AdView
-      
         android:id="@+id/adView"
         
         android:layout_width="wrap_content"
@@ -27,7 +26,6 @@
         ads:adSize="BANNER"
         
         ads:adUnitId="@string/banner_ad_unit_id">
-        
     </com.google.android.gms.ads.AdView>
      </code>
      
