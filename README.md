@@ -26,6 +26,7 @@
      
   5) MainActivity.java
      <code>
+     
      AdView mAdView = (AdView) findViewById(R.id.adView);
      AdRequest adRequest = new AdRequest.Builder().build();
      mAdView.loadAd(adRequest);
