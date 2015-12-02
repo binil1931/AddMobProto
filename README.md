@@ -5,7 +5,9 @@
      Add this in dependencies and sync the project
      
  2) Add permission for INTERNET in manifest
+ 
  3) Register AddMobs "https://apps.admob.com/"
+ 
  4) After Registering we will get add unit id, use that id in layoyt.xml
  
  3) Layout.xml
