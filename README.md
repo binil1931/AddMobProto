@@ -12,6 +12,7 @@
  
  3) Layout.xml
      <code>
+     
       <com.google.android.gms.ads.AdView
         android:id="@+id/adView"
         android:layout_width="wrap_content"
